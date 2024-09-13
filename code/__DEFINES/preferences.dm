@@ -1,8 +1,8 @@
 //Do not decrease this unles you know what you're doing.
-#define MAX_SAVE_SLOTS 10
+#define MAX_SAVE_SLOTS 50
 
 #define AGE_MIN 18
-#define AGE_MAX 85
+#define AGE_MAX 580
 
 #define GET_RANDOM_JOB 0
 #define BE_OVERFLOW 1
