@@ -11,10 +11,8 @@ package-lock.json
 !/.yarn/sdks
 !/.yarn/versions
 
-## Build artifacts
+## Temp. Build artifacts
 /public/.tmp/**/*
-/public/**/*
-!/public/*.html
 
 ## Previously ignored locations that are kept to avoid confusing git
 ## while transitioning to a new project structure.
