@@ -9,6 +9,7 @@ Thumbs.db
 *.dmm.before
 *.cache
 cfg/
+/data/**/*
 tmp/
 tools/Runtime Condenser/Input.txt
 tools/Runtime Condenser/Output.txt
